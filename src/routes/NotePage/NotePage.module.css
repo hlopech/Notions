@@ -1,0 +1,22 @@
+
+.noteTextContainer{
+    color:#F7F0F0;
+    border: none;
+    font-size: 1.2vw;
+    padding: 1vw;
+    word-wrap: break-word;
+    width: 60vw;
+    max-width: 60vw;
+    max-height: 25vw;
+    height: 25vw;
+    overflow:auto;
+    background-color:#564F6F;
+}
+.noteTextContainer::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .noteTextContainer::-webkit-scrollbar-thumb {
+    background-color:#802BB1;
+    border-radius: 10px; 
+  }

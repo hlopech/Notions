@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "10119831nN",
+      "date": 1701007981294,
+      "id": "3e6f8057-35c0-4b98-902b-1878e67f5e90"
+    },
+    {
+      "email": "margo@gmail.com",
+      "password": "10119831nN",
+      "date": 1701524186134,
+      "id": "79068400-6428-4264-b08c-310b4f53c641"
+    },
+    {
+      "email": "angelina@gmail.com",
+      "password": "12345678aA",
+      "date": 1701537720697,
+      "id": "297669a3-320e-43d9-9fea-7d018e6eb872"
+    },
+    {
+      "email": "aaa@gmail.com",
+      "password": "10119831nN",
+      "date": 1701537920434,
+      "id": "16b36434-bdd4-46e4-9e38-c6d6fddfa94d"
+    },
+    {
+      "email": "qqq@gmail.com",
+      "password": "10119831nN",
+      "date": 1701541839373,
+      "id": "76be7fb6-14a8-43cd-bce8-b029b3554e00"
+    },
+    {
+      "email": "user1@gmail.com",
+      "password": "10119831nN",
+      "date": 1702756347135,
+      "id": "c81078ed-62a9-4150-9f2c-feeb0f804405"
+    }
+  ],
+  "notes": [
+    {
+      "userId": "79068400-6428-4264-b08c-310b4f53c641",
+      "id": "b1588fab-b6ef-4507-956e-27d02aba0277",
+      "date": 1701525925163,
+      "noteName": "1",
+      "noteText": ""
+    },
+    {
+      "userId": "79068400-6428-4264-b08c-310b4f53c641",
+      "id": "fac32d00-d1a1-4939-bb3d-fb4b0ebb96bd",
+      "date": 1701528162609,
+      "noteName": "1111",
+      "noteText": ""
+    },
+    {
+      "userId": "79068400-6428-4264-b08c-310b4f53c641",
+      "id": "6eb479c6-3cd1-4004-acef-6c833d232bec",
+      "date": 1701528164102,
+      "noteName": "1111",
+      "noteText": ""
+    },
+    {
+      "userId": "79068400-6428-4264-b08c-310b4f53c641",
+      "id": "8e4e1757-dcf4-49f8-8c8f-3186fd79e9b8",
+      "date": 1701529004707,
+      "noteName": "12f1gvf12g",
+      "noteText": ""
+    },
+    {
+      "userId": "79068400-6428-4264-b08c-310b4f53c641",
+      "id": "c0daefde-ff75-4c20-8108-4943863043c7",
+      "date": 1701529008760,
+      "noteName": "12g12g",
+      "noteText": ""
+    },
+    {
+      "userId": "297669a3-320e-43d9-9fea-7d018e6eb872",
+      "id": "c12631ef-c251-4351-bfaf-053d485133ac",
+      "date": 1701537745925,
+      "noteName": "dffffffffff",
+      "noteText": "sdfasdgasdg"
+    },
+    {
+      "userId": "16b36434-bdd4-46e4-9e38-c6d6fddfa94d",
+      "id": "34e38ca6-b541-4cb4-9496-8e8cc2ef4ee7",
+      "date": 1701541809768,
+      "noteName": "1111",
+      "noteText": ""
+    },
+    {
+      "userId": "c81078ed-62a9-4150-9f2c-feeb0f804405",
+      "id": "a3212fa2-f04d-4e6a-ad86-2c8bfa4fb2da",
+      "date": 1702756372012,
+      "noteName": "123123",
+      "noteText": "sdagasdg"
+    }
+  ]
+}
